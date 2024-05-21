@@ -1,0 +1,33 @@
+_repo: The-war-myth-in-United-States-history_73623
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Dole, Charles F. (Charles Fletcher)
+    alias: Dole, Charles Fletcher
+    birthdate: 1845
+    deathdate: 1927
+    gutenberg_agent_id: '48144'
+    url: http://www.gutenberg.org/2009/agents/48144
+creator:
+  author:
+    agent_name: Hamlin, C. H.
+    gutenberg_agent_id: '57145'
+    url: http://www.gutenberg.org/2009/agents/57145
+description: ''
+gutenberg_issued: '2024-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73623'
+language: en
+pgterms:marc905: 20240505211859hamlin
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aNew York :$bThe Vanguard Press, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The war myth in United States history
+url: http://www.gutenberg.org/ebooks/73623
