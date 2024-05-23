@@ -8,12 +8,17 @@ contributor:
     deathdate: 1927
     gutenberg_agent_id: '48144'
     url: http://www.gutenberg.org/2009/agents/48144
+covers:
+- cover_type: archival
+  image_path: 73623-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Hamlin, C. H.
     gutenberg_agent_id: '57145'
     url: http://www.gutenberg.org/2009/agents/57145
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73623#The-war-myth-in-United-States-history
 gutenberg_issued: '2024-05-13'
 gutenberg_type: Text
 identifiers:
